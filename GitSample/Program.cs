@@ -11,6 +11,7 @@ namespace GitSample
         static void Main(string[] args)
         {
             //linhvv
+            //test git
         }
     }
 }
