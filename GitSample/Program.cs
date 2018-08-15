@@ -14,6 +14,8 @@ namespace GitSample
             //test git
             //update 20180815
 
+            //test conflic:1
+
             Console.WriteLine("hello LinhVV");
             Console.ReadLine();
         }
