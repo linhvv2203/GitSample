@@ -13,6 +13,7 @@ namespace GitSample
             //linhvv
             //test git
             //update 20180815
+            //test conflic
 
             //test conflic:1
 
