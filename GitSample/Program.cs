@@ -10,7 +10,9 @@ namespace GitSample
     {
         static void Main(string[] args)
         {
-            //linhvv 20180815
+            //linhvv
+            //test git
+            //update 20180815
         }
     }
 }
