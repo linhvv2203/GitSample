@@ -15,6 +15,7 @@ namespace GitSample
             //update 20180815
 
             Console.WriteLine("hello LinhVV");
+            Console.ReadLine();
         }
     }
 }
